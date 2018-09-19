@@ -1,0 +1,2 @@
+# tihomirrazum
+Galerija slika
