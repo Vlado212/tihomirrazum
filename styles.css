@@ -1,0 +1,27 @@
+
+.jumbotron{
+	
+	background-color: #454647;
+}
+
+.btn {
+	margin: 10px;
+}
+
+
+.btn-success {
+	
+	color: white;
+	background-color: #5363C6;
+	border: black;
+	
+}
+
+.btn-success:hover { 
+    background-color: orange;
+}
+
+.thumbnail:hover {
+	
+	background-color: #5996CB;
+}
